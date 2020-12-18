@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: We are your guide.
-    subtitle: ''
+    subtitle: >-
+      We push people and organizations past whatever is holding them back from
+      reaching their maximum potential.
     actions:
       - label: Learn More
         url: /features
