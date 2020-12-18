@@ -75,6 +75,6 @@ sections:
         url: /features
         style: primary
     has_background: true
-    background_color: green
+    background_color: gray
 template: advanced
 ---
