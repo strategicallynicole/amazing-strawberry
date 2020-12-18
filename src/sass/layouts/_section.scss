@@ -24,13 +24,18 @@
   padding-bottom: 3.75em;
   padding-top: 3.75em;
 }
-
 .bg-blue {
-  background-color: $color-inverse-bg;
+  background-color: #2D2F4E;
+}
+.bg-green {
+  background:  linear-gradient(90deg, #A0E8AC 1.29%, #A6EDBA 100%)
 }
 
 .bg-gray {
-  background-color: $color-bg-alt;
+  background: linear-gradient(90deg, #7240FF 20.8%, #6E7DFF 99.96%)
+}
+.bg-pink {
+background: linear-gradient(134.17deg, #FF774B 4.98%, #7451BD 94.88%);
 }
 
 .section__media,

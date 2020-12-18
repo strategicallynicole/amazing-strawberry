@@ -338,6 +338,8 @@ models:
           - white
           - gray
           - blue
+          - green
+          - pink
         default: white
         description: The background color of the section
   features_section:
@@ -412,6 +414,8 @@ models:
               - white
               - gray
               - blue
+              - green
+              - pink
             default: white
             description: The background color of the section
           - type: image
